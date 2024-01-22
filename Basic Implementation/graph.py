@@ -20,4 +20,4 @@ class Graph:
     def calculate_distance(self, start_node, end_node):
         dx = start_node.x - end_node.x
         dy = start_node.y - end_node.y
-        return (dx**2 + dy**2)**0.5
+        return (dx**2 + dy**2)**0.5  
