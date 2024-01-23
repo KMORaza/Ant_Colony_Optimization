@@ -1,5 +1,6 @@
 package Split_Delivery_Vehicle_Routing;
-public class SDVRPMain {
+// Created: September 2022
+public class Main {
     public static void main(String[] args) {
         Node[] nodes = {
                 new Node(0, 0.0, 0.0),
