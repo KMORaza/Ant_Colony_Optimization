@@ -1,6 +1,5 @@
 /*
-An example implementation of reversible circuit synthesis
-uisng ant colony optimization to improve efficicnecy
+An example implementation of reversible circuit synthesis using ant colony optimization to improve efficiency
 */
 // Created: September 2022
 #include <stdio.h>
